@@ -1,0 +1,30 @@
+{
+  "name": "@voken/avatar",
+  "version": "1.1.0",
+  "description": "Create a `.svg` avatar from `seed`",
+  "keywords": [
+    "avatar",
+    "voken",
+    "voken1000g",
+    "crypto",
+    "cryptography"
+  ],
+  "homepage": "https://github.com/voken1000g/npm-avatar",
+  "author": "@voken1000g",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voken1000g/npm-avatar"
+  },
+  "bugs": {
+    "url": "https://github.com/voken1000g/npm-avatar/issues"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "@dicebear/avatars": "^4.5.2",
+    "@dicebear/avatars-gridy-sprites": "^4.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
